@@ -62,17 +62,16 @@ A full-stack web application built using the **MERN** stack (MongoDB, Express, R
 git clone https://github.com/your-username/book-review-platform.git
 cd book-review-platform
 
-### 2. Install Dependencies
-```bash
+ 2. Install Dependencies
 frontend
 cd client
 npm install
 
-```bash
+backend
 cd backend
 npm install
 
-### 3. Environment Variables
+ 3. Environment Variables
 ```bash
 Create a .env file in the /backend directory with the following keys:
 PORT=your_port_number
